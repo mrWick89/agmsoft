@@ -1,5 +1,5 @@
 {
-  "name": "loftschool",
+  "name": "MyProgect",
   "version": "0.0.1",
   "description": "",
   "main": "gulpfile.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/max_manchak/loftschool-cv.git"
+    "url": ""
   },
   "keywords": [
     "CV"
   ],
-  "author": "Max Manchak",
+  "author": "Ivan T",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/max_manchak/loftschool-cv#readme",
+  "homepage": "",
   "devDependencies": {
     "autoprefixer": "",
     "browser-sync": "",
